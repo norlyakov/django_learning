@@ -1,1 +1,1 @@
-# django_learning
+Django learning
