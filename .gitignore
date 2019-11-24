@@ -1,0 +1,4 @@
+.idea/
+env/
+mysite/db.sqlite3
+*.pyc
